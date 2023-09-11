@@ -15,6 +15,25 @@ his or her written text.
 Indeed, we believe that there are stylistic and content differences between different categories of subjects that may allow classification models to distinguish between different
 classes of people.
 
+## Files
+
+- EDA.ipynb, Descriptive Analysis + Term Frequency Analysis.
+
+- Preprocessing and Sentence Transformer Embedding.ipynb : Preprocessing of data + Embedding using Sentence Transformer Model
+
+- Feature Extraction.ipynb : Stylistic + Content Features, turned out to be not useful
+
+- Models Sentence Trsnformers.ipynb : Logistic Regression + other trials using Sentence Transformer Embedding
+
+- Models Tf IDF.ipynb : Logistic Regression + Naive Bayes using TF-IDF embedding
+
+- LSTM Gender & LSTM Age: LSTM Neural Network for the two target variables
+
+- Interface.ipynb : Graphic Interface for the models usign Gradio library
+
+## Dataset used
+The data is avaible at https://drive.google.com/drive/folders/19HZRV-WZpbIw-yHt1Oipb1QQhtawdaYz?usp=share_link
+## Authors
 
 ## Authors
 
