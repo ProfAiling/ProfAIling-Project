@@ -1,6 +1,5 @@
-<img src ="https://github.com/ProfAiling/ProfAIling-Project/blob/main/Sfondo.png" alt="MLBC">
 # ProfAIling Project
-
+<img src ="https://github.com/ProfAiling/ProfAIling-Project/blob/main/Sfondo.png" alt="MLBC">
 - Is it possible for a computer to collect our personal information from our written texts? 
 - Can this be a possibility for platforms and social networks that make our data their personal gold mine?
 
