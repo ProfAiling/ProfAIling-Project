@@ -33,7 +33,6 @@ classes of people.
 
 ## Dataset used
 The data is avaible at https://drive.google.com/drive/folders/19HZRV-WZpbIw-yHt1Oipb1QQhtawdaYz?usp=share_link
-## Authors
 
 ## Authors
 
